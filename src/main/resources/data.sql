@@ -1,0 +1,4 @@
+-- INSERT INTO TBL_EMPLOYEES(first_name,last_name,email) VALUES
+-- ('Seyma','Sonumut','seymaSonumut@gmail.com'),
+-- ('Kerim','Sonumut','kerimSonumut@gmail.com'),
+-- ('Almila','Sonumut','almilaSonumut@gmail.com');
